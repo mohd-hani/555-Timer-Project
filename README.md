@@ -26,9 +26,12 @@ This project is a KiCad-designed circuit board centered around the 555 timer IC,
   - **Testpoint 3**: Connected to the inverted 555 timer output.
   - A voltmeter can be connected to these test points to measure the voltage levels.
 
-## Schematic and PCB Design
+## Circuit Schematic
 
 ![Circuit Schematc](./images/schematic.png)
+
+## PCB Layout
+
 ![PCB Layout](./images/layout.png)
 
 ## Usage
