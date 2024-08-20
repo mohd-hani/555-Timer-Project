@@ -28,7 +28,8 @@ This project is a KiCad-designed circuit board centered around the 555 timer IC,
 
 ## Schematic and PCB Design
 
-The schematic and PCB design files are included in this repository, created using KiCad. The design features clear labeling of components, with special attention to power distribution and signal integrity.
+![Circuit Schematc](./images/schematic.png)
+![PCB Layout](./images/layout.png)
 
 ## Usage
 
